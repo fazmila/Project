@@ -12,12 +12,19 @@ Project.ipynb - Colab notebook version of the pipeline for interactive use.
 Libraries Used
 
 pandas - Data manipulation and analysis.
+
 numpy - Mathematical operations.
+
 matplotlib - Data visualization.
+
 seaborn - Statistical data visualization.
+
 scikit-learn - Machine learning algorithms and tools.
+
 imbalanced-learn (imblearn) - Handling imbalanced datasets with techniques like SMOTE.
+
 RandomizedSearchCV and GridSearchCV - Hyperparameter tuning.
+
 LabelEncoder - Label encoding for categorical variables.
 
 Workflow
