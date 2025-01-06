@@ -82,12 +82,12 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 Steps
 
 Clone the repository:
-git clone https://github.com/your_username/credit-risk-prediction.git
-cd credit-risk-prediction
+git clone https://github.com/fazmila/credit card approcal prediction.git
+cd credit card approval prediction
 
 Place the dataset files application_record.csv and credit_record.csv in the project directory or update the file paths in the code accordingly.
 
-open the Jupyter notebook:
+open the Colab notebook:
 
 Colab notebook Project.ipynb
 
