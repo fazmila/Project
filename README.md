@@ -69,11 +69,17 @@ SMOTE (Synthetic Minority Over-sampling Technique) is applied to handle class im
 
 Model Evaluation
 After training the models, they are evaluated on the test set, and the following results are printed for each model:
+
 Accuracy Score
+
 Classification Report
+
 Confusion Matrix
+
 ROC Curve and AUC Score
+
 Hyperparameter Tuning
+
 Hyperparameters are tuned using RandomizedSearchCV for Logistic Regression, GridSearchCV for Linear SVC, Decision Tree, and Random Forest models to improve model performance.
 
 Feature Importance
